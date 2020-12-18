@@ -1,6 +1,8 @@
 "dashboard_covid_19" 
+
       TP Business Intelligence
-L’ingestion de données désigne un processus d’absorption de donnée provenant de diverses sources et qui pourront être déposer (stocker) ou analyser. Le traitement des données permettra par la suite de regrouper les données. Il permet de les illustrer à l’aide de diagramme, de graphe (etc…) mais aussi dans le même temps d’obtenir un résumé numérique. Cependant ces données doivent être nettoyées dans un format qui est facile d’utilisation.
+  
+  L’ingestion de données désigne un processus d’absorption de donnée provenant de diverses sources et qui pourront être déposer (stocker) ou analyser. Le traitement des données permettra par la suite de regrouper les données. Il permet de les illustrer à l’aide de diagramme, de graphe (etc…) mais aussi dans le même temps d’obtenir un résumé numérique. Cependant ces données doivent être nettoyées dans un format qui est facile d’utilisation.
   -	Ingestion par lots 
   
 Par lots, les données sont transférées à intervalles réguliers et par portions
