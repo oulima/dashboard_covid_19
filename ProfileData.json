@@ -1,0 +1,36 @@
+{
+  "Name": "oulimata Ndiaye",
+  "JobRoles": [
+    "Developer"
+  ],
+  "BusinessTypes": [
+    "Online Community"
+  ],
+  "IsOptedInToEmails": true,
+  "CourseProgress": [
+    {
+      "CourseName": "Introduction to Data Studio",
+      "StartDate": 20201217,
+      "CourseCompleted": true,
+      "CertificateDate": 20201217,
+      "AssessmentsProgress": [
+        {
+          "Title": "Assessment 1",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 2",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 3",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 4",
+          "Passed": true
+        }
+      ]
+    }
+  ]
+}
