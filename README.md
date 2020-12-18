@@ -9,7 +9,7 @@ Etant sensible au facteur temps, les données sont importés tels quelles sont �
 Elle regroupe les deux premiers en en traitant les données par lot pour étudier l’ensemble des données lots. Dans le même temps il utilise ingestion en temps réel pour étudier les informations liées au facteur de temps.  
 
 Lien Dashboard
-Vous trouverez ci-joint mon lien Dashboard pour l’étude du COVUD-19 : https://datastudio.google.com/reporting/361a76fd-5833-417f-84ca-41ab4b251483
+Vous trouverez ci-joint mon lien Dashboard pour l’étude du COVID-19 : https://datastudio.google.com/reporting/361a76fd-5833-417f-84ca-41ab4b251483
 
 Certificat de compétence Google Data Studio
 Dans le même temps vous trouverez aussi ci-joint mon lien certificat de compétence google Data Studio :
